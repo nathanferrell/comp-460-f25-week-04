@@ -1,4 +1,4 @@
-# Week 03: Dynamic Programming and Greedy Algororithms
+# Week 04: The Fast Fourier Transform
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
